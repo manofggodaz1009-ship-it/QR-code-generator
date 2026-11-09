@@ -1,0 +1,6 @@
+{
+  "name": "CNV QR & UPI",
+  "description": "Tamil-first QR code and UPI generator with custom logo embedding, fast camera scanner, payment launcher, and history manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
